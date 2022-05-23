@@ -1,0 +1,38 @@
+Q1) Write the difference between JRE, JDK and JVM?
+Ans1) JRE:-  A Java runtime environment is a set of components to create and run a Java application.
+             A JRE is part of a Java development kit (JDK).
+             A JRE is made up of a Java virtual machine (JVM), Java class libraries, and the Java class loader.
+	JDK:- The Java Development Kit is a software development environment used for developing Java applications and applets. 
+            It includes the Java Runtime Environment (JRE), an interpreter/loader (java), a compiler (javac)
+	JVM:- Java Virtual Machine provides user to write and run the code in a virtual system so that the code will not affect the system.
+
+Q2) Write the difference between JSE, JEE and JME?
+Ans2) JSE:- Java Standard Edition also know as Core Java.It is the core foundation for remaining two edition.
+             eg-Standalone application/desktop application
+	JEE:- Java Enterprise Edition is used to develop an enterprise level software or distributed applications.
+	JME:- Java Micro Edition is to make application and software for smartwatches, washing machine, set-top box, etc.
+
+Q3) How does java achieve platform independency?
+Ans3) When we compile .java file then the compiler convert that file into .class file and this file is the byteode file which
+       can be run in any of the operating system because JVM(Java Virtual Machine) will take care of that.
+
+
+Q4) What are features of Java and explain them?
+Ans4) Features of java are as below:-
+      a) Secure:- JAVA has provided an implicit component inside JVM in the form of a “Security Manager”  to provide 
+                   implicit security against malicious code.
+
+      b) Portable & Platform Independent:-Java source code is compiled and converted into bytecode, this bytecode can 
+                                         run on multiple platforms i.e. Write Once and Run Anywhere(WORA), we can compile the java code
+                                         in one OperatingSystem and execute it on another Operating System.
+
+      c) Simple:-Java is easy to learn and its syntax is quite simple, clean and easy to understand.
+
+      d) Object Oriented:-Java is object-oriented, it supports all the OOPS characteristics. This makes java applications easy to 
+                          develop and maintain,compared to structured programming language.
+
+      e) Multithreded:-Java supports multithreading to enhance performance. by using this we can execute multiple functionalities
+                       simultaneously.
+
+      f) Robust:-Robust means strong. Java is having a very good memory management system in the form of a heap memory management system, 
+                 it is a dynamic memory management system, it allocates and deallocates memory for the objects at runtime

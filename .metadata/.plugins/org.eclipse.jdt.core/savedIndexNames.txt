@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\SUJIT KUMAR PATRA\OneDrive\Documents\html\ja-111\.metadata\.plugins\org.eclipse.jdt.core
+2173695852.index
+1865797976.index
+1073817772.index
